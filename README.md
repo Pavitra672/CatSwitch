@@ -38,6 +38,9 @@ The JavaScript script listens for button clicks.
 When “ON” is clicked, it changes the light bulb image/style to a glowing state and updates the text to “Switched On.”
 When “OFF” is clicked, the bulb turns off, and the text changes to “Switched Off.”
 
+Live Demo :
+https://catswitch.netlify.app/
+
 
 $ Features
 
